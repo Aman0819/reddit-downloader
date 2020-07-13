@@ -1,5 +1,5 @@
 # Reddit Downloader
-python script to download all the media from a given subreddit! :point_right:🥺:point_left:
+python script to download all the media from a given subreddit! :point_right::point_left:🥺
 
 ### Requirements?
 'pip3 install requests'
@@ -19,5 +19,6 @@ optional arguments:
   -d D        duplicate flag for posts with same caption
   
 ### Works On Windows, Linux and Mac!
+files will be downloaded under individual subreddit folder in Downloads folder!
   
   
