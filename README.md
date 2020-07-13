@@ -14,9 +14,9 @@ positional arguments:
   sub         Name of the Subreddit (without r/)
 
 optional arguments:
-  -h, --help  show this help message and exit
-  -s S        Sort based on Hot or Top
-  -d D        duplicate flag for posts with same caption
+  -h, --help  show this help message and exit</br>
+  -s S        Sort based on Hot or Top</br>
+  -d D        duplicate flag for posts with same caption</br>
   
 ### Works On Windows, Linux and Mac!
 files will be downloaded under individual subreddit folder in Downloads folder!
