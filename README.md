@@ -1,12 +1,12 @@
 # Reddit Downloader
 python script to download all the media from a given subreddit! :point_right:🥺:point_left:
 
-###Requirements?
+### Requirements?
 'pip3 install requests'
 
-###How to Use?
+### How to Use?
 
-'python3 pyreddit.py <subreddit>'
+`python3 pyreddit.py <subreddit>`
 
 usage: pyreddit.py [-h] [-s S] [-d D] sub
 
@@ -18,6 +18,6 @@ optional arguments:
   -s S        Sort based on Hot or Top
   -d D        duplicate flag for posts with same caption
   
-###Works On Windows, Linux and Mac!
+### Works On Windows, Linux and Mac!
   
   
