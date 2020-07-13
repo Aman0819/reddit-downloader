@@ -1,5 +1,5 @@
 # Reddit Downloader
-python script to download all the media from a given subreddit! :point_right::point_left:🥺
+Python script to download images and Videos from a given subreddit! :point_right::point_left:🥺
 
 ### Requirements?
 `pip3 install requests`
