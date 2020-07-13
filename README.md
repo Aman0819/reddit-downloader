@@ -2,7 +2,7 @@
 python script to download all the media from a given subreddit! :point_right::point_left:🥺
 
 ### Requirements?
-'pip3 install requests'
+`pip3 install requests`
 
 ### How to Use?
 
