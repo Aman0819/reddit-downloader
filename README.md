@@ -2,11 +2,15 @@
 Python script to download images and Videos from a given subreddit! :point_right::point_left:🥺
 
 ### Requirements?
-`pip3 install requests`
+```sh
+pip3 install requests
+```
 
 ### How to Use?
 
-`python3 pyreddit.py <subreddit>`
+```sh
+python3 pyreddit.py <subreddit>
+```
 
 usage: pyreddit.py [-h] [-s S] [-d D] sub
 
@@ -21,4 +25,5 @@ optional arguments:
 ### Works On Windows, Linux and Mac!
 files will be downloaded under individual subreddit folder in Downloads folder!
   
+Inspired from [@thisisppn](https://github.com/thisisppn) to create this as his script didn't download images/vids with same caption.
   
